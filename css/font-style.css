@@ -1,0 +1,81 @@
+.style-h2 {
+     font-size: 22px;
+     color: #413d4b;
+     font-family: 'PlayfairDisplayBold';
+}
+.style-h2w {
+    font-size: 22px;
+    color: #fff;
+    font-family: 'PlayfairDisplayBold';
+}
+.expertise p {
+    font-size: 14px;
+    color: #636268;
+    font-family: 'PlayfairDisplayRegular';
+}
+
+.my-flex-block h3 {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #413d4b;
+    font-family: 'RobotoBlack';
+    margin: 32px 0 25px 0;
+}
+.my-flex-block p {
+    color: #7a7a7a;
+    font-size: 14px;
+    font-family: 'RobotoLight';
+
+}
+
+.team p{
+    font-family: 'PlayfairDisplayRegular';
+    font-size: 14px;
+    color: #ececef;
+
+}
+
+.team h4{
+    margin-top: 15px;
+    font-size: 14px;
+    color: #f3f3f5;
+    font-family: 'RobotoBlack';
+    text-transform: uppercase;
+}
+
+.team span {
+    font-family: 'RobotoLight';
+    font-size: 13px;
+    color: #afaebb;
+    text-transform: uppercase;
+}
+.team-p {
+    font-family: 'RobotoLight';
+    font-size: 13px;
+    color: #d6d5db;
+    margin-bottom: 70px;
+}
+
+.put_any_name {
+    font-family: 'RobotoBlack';
+    font-size: 14px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.gallery-txt {
+    font-family: 'RobotoLight';
+    font-size: 14px;
+    color: #413d4b;
+    margin-top: 10px;
+}
+.testimonials span {
+    font-family: 'RobotoLight';
+    font-size: 13px;
+    color: #aba7b8;
+}
+
+footer p {
+    color: #fff;
+    font-size: 14px;
+    font-family: 'RobotoLight';
+}

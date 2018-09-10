@@ -1,0 +1,30 @@
+.bg-img {
+    background-image: url(../img/bg1.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header a{
+     font-size: 13px;
+     color: #FFF;
+     font-family: 'RobotoBlack';
+     text-transform: uppercase;
+ }
+.pos-banner h1{
+    position: relative;
+    font-size: 32px;
+    color: #fff;
+    font-family: 'PlayfairDisplayBlack';
+    margin-top: 165px;
+}
+.pos-banner p{
+    font-size: 14px;
+    color: #fff;
+    font-family: 'RobotoLight';
+    padding: 0 85px;
+    margin: 60px 0 50px 0;
+}
+
+.item-banner {
+    margin-bottom: 205px;
+}

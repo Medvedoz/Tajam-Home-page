@@ -1,0 +1,160 @@
+@import url(template.css);
+@import url(header.css);
+@import url(fonts.css);
+@import url(font-style.css);
+@import url(our-story.css);
+@import url(expertise.css);
+.container {
+  max-width: 940px; }
+
+.video-slot {
+  background-image: url(../img/video-slot.png);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 200px 0; }
+
+.team {
+  padding: 70px 0; }
+
+.elipse {
+  width: 201px;
+  height: 310px;
+  overflow: hidden;
+  background-color: #eeeef0;
+  display: inline-block; }
+
+.elipse img {
+  display: block;
+  width: 100%; }
+
+.team {
+  background-image: url(../img/meet_our_team.png);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+.img-item {
+  margin-bottom: 70px; }
+
+.gallery {
+  padding: 70px 0; }
+
+.photo-gallery {
+  background-image: url(../img/gallery.png);
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 70px 0; }
+
+.testimonials {
+  background-image: url(../img/testimonials.png);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 70px 80px 185px 80px; }
+  .testimonials p {
+    font-family: 'PlayfairDisplayRegular';
+    font-size: 16px;
+    color: #fff;
+    margin: 40px 0 55px 0; }
+
+.our-clients {
+  padding: 70px 0; }
+  .our-clients textarea {
+    resize: none; }
+
+.sponsor {
+  margin-left: 20px; }
+
+.sponsor img {
+  margin-top: 8px; }
+
+footer {
+  background-image: url(../img/footer-bg.png);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 50px 0; }
+
+.contact-us {
+  position: relative;
+  margin-top: 20px; }
+
+.social {
+  margin-top: 20px; }
+
+.contact-us p {
+  padding-left: 30px;
+  padding-top: 30px; }
+
+.tajam-info img {
+  margin-bottom: 5px; }
+
+.tajam-info p {
+  padding-top: 21px; }
+
+.form-inline {
+  padding: 33px 0 15px 0; }
+
+.social input {
+  height: 45px;
+  width: 210px;
+  background-color: transparent;
+  border: solid 1px #9d97af;
+  border-radius: 0px;
+  outline: none;
+  margin-right: 10px;
+  font-size: 14px;
+  font-family: 'RobotoLight'; }
+
+.social button {
+  height: 45px;
+  width: 70px;
+  border-radius: 0px;
+  border: none;
+  background-color: #9d97af;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+  font-size: 25px; }
+
+.social-links {
+  margin-top: 25px; }
+
+.social-links i {
+  display: inline-block;
+  font-size: 15px;
+  margin-left: 5px;
+  color: #fff;
+  padding: 10px;
+  border: solid #fff 1px;
+  border-radius: 50px; }
+
+.marker-map {
+  color: #fff;
+  font-size: 17px;
+  position: absolute;
+  top: 52px;
+  left: 18px; }
+
+.phone {
+  color: #fff;
+  font-size: 17px;
+  position: absolute;
+  top: 166px;
+  left: 18px; }
+
+.privacy {
+  margin-top: 70px; }
+
+.privacy a {
+  color: #fff;
+  font-size: 14px;
+  font-family: 'RobotoLight';
+  outline: none;
+  text-decoration: none;
+  margin-left: 30px; }
+
+/*# sourceMappingURL=style.css.map */
